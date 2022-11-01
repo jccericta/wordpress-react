@@ -1,0 +1,9 @@
+{
+  "name": "wordpress-react",
+  "version": "1.0.0",
+  "description": "wordpress react example",
+  "main": "index.js",
+  "author": "John Ericta",
+  "license": "MIT",
+  "private": null
+}
